@@ -12,7 +12,7 @@ Get Description from Site meta-data
 == Description ==
 I've addapted this Plugin from "[2010 Summary](http://wordpress.org/extend/plugins/2010-summary/) by Tomasz Topa"
 
-This plugin generates a brief summary of your blog for year 2010.
+This plugin generates a brief summary of your blog for year 2012.
 
 See how many posts you wrote durig the ending year, which were the most popular, who was the most active commenter etc.
 
