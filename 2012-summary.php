@@ -178,7 +178,7 @@ function y2012summary() {
 	
 	<style type="text/css">
 	.y2012summaryList{font-size:11px;margin-left:3em;list-style:disc;}
-	#y2012summaryDonate{width:292px;float:right;text-align:center;padding:30px 0;}
+	#y2012summaryDonate{width:292px;height:420;position:absolute;top:5px;right:5px;float:right;text-align:center;}
 	.y2012summaryTable{margin: 0 0 0 10px;}
 	.y2012summaryTable td{font-size:11px;line-height:2em;padding:0.25em;overflow:hidden;}
 	.y2012summaryCol1{float:left;width:300px;overflow:hidden;}
