@@ -3,11 +3,10 @@ Contributors: lioman
 Donate link: http://flattr.com/thing/1093328/2012-Summary
 
 Tags: word count, summary, 2012, stats, statistics
-Requires at least: 2.5
+Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 0.1
 
-Get Description from Site meta-data
 
 == Description ==
 I've addapted this Plugin from "[2010 Summary](http://wordpress.org/extend/plugins/2010-summary/) by Tomasz Topa"
