@@ -9,11 +9,11 @@ Stable tag: 0.1
 
 
 == Description ==
-I've addapted this Plugin from "[2010 Summary](http://wordpress.org/extend/plugins/2010-summary/) by Tomasz Topa"
+I've adapted this Plugin from "[2010 Summary](http://wordpress.org/extend/plugins/2010-summary/) by Tomasz Topa"
 
 This plugin generates a brief summary of your blog for year 2012.
 
-See how many posts you wrote durig the ending year, which were the most popular, who was the most active commenter etc.
+See how many posts you wrote during the ending year, which were the most popular, who was the most active commenter etc.
 
 And then share the stats with your readers - copy the data to a new draft with a single click.
 More on [www.lioman.de](http://www.lioman.de/plugins-scripte/2012-summary "WordPress-Plugin: 2012 Summary")
