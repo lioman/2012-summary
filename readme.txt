@@ -1,3 +1,5 @@
+This Plugin isn't developed any more. Pe patient I rewrite it at the moment
+
 === Plugin Name ===
 Contributors: lioman
 Donate link: http://flattr.com/thing/1093328/2012-Summary
